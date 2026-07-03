@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home1/tumkrato/pisethtest.tumkratoei.com.kh/
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/rsync -av ./ $DEPLOYPATH
