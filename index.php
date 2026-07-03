@@ -1,1 +1,1 @@
-<?= phpinfo(); ?>
+<?= ' I just auto deploy to this cPanel'; ?>
