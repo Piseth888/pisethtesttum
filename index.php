@@ -1,1 +1,1 @@
-<?= ' I just auto deploy to this cPanel'; ?>
+<?= _DIR_; ?>
