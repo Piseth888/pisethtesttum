@@ -1,1 +1,1 @@
-<?= __DIR__;  ?>
+<?= 'Autodeploy is working now'; ?>
